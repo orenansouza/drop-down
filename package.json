@@ -1,6 +1,7 @@
 {
   "name": "drop-down",
   "version": "0.1.0",
+  "homepage": "https://orenansouza.github.io/drop-down/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
