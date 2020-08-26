@@ -1,7 +1,7 @@
 {
   "name": "drop-down",
   "version": "0.1.0",
-  "homepage": "https://orenansouza.github.io/drop-down",
+  "homepage": "https://orenansouza.github.io/drop-down/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d ./public/"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
